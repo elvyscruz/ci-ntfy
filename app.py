@@ -1,5 +1,5 @@
 def saludar():
-    return "Hola Mundos"
+    return "Hola Mundo"
 
 
 if __name__ == "__main__":
